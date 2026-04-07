@@ -19,7 +19,7 @@ A fully functional, database-driven REST API built from scratch to learn modern 
 - **Database:** SQLite
 - **ORM:** Entity Framework Core (EF Core)
 - **Security:** Microsoft.AspNetCore.Authentication.JwtBearer
-- **Tooling:** Swagger (Swashbuckle), dotnet-ef
+- **Tooling:** Swagger (Swashbuckle), Postman, dotnet-ef
 
 ## 📚 Learning Outcomes
 
